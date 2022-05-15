@@ -1,0 +1,29 @@
+{
+  "name": "web-excel",
+  "version": "1.0.0",
+  "description": "Pure JS Excel Application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruslangaifutdinov/wev-excel.git"
+  },
+  "keywords": [
+    "JS",
+    "nodejs",
+    "excel"
+  ],
+  "author": "Ruslan Gaifutdinov <ruslan.gaifutdinov.1987@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruslangaifutdinov/wev-excel/issues"
+  },
+  "homepage": "https://github.com/ruslangaifutdinov/wev-excel#readme",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
